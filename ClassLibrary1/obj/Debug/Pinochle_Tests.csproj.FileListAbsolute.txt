@@ -1,0 +1,9 @@
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\ClassLibrary1\obj\Debug\Pinochle_Tests.csprojResolveAssemblyReference.cache
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\ClassLibrary1\bin\Debug\Pinochle_Game.dll
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\ClassLibrary1\bin\Debug\Pinochle_Game.pdb
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\ClassLibrary1\bin\Debug\nunit.framework.xml
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

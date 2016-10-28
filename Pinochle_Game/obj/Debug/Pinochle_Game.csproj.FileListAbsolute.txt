@@ -1,0 +1,5 @@
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\Pinochle_Game\bin\Debug\Pinochle_Game.dll
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\Pinochle_Game\bin\Debug\Pinochle_Game.pdb
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\Pinochle_Game\obj\Debug\Pinochle_Game.dll
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\Pinochle_Game\obj\Debug\Pinochle_Game.pdb
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\Pinochle_Game\obj\Debug\Pinochle_Game.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\ConsoleTests\bin\Debug\ConsoleTests.exe.config
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\ConsoleTests\bin\Debug\ConsoleTests.exe
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\ConsoleTests\bin\Debug\ConsoleTests.pdb
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\ConsoleTests\bin\Debug\Pinochle_Game.dll
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\ConsoleTests\bin\Debug\Pinochle_Game.pdb
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\ConsoleTests\obj\Debug\ConsoleTests.csprojResolveAssemblyReference.cache
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\ConsoleTests\obj\Debug\ConsoleTests.exe
+C:\Users\DF\documents\visual studio 2013\Projects\Pinochle_Game\ConsoleTests\obj\Debug\ConsoleTests.pdb
